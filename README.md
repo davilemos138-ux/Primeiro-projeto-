@@ -1,6 +1,6 @@
 # Primeiro-projeto-
 
--item de lista 
+-item de lista
 -Brasil 
 -Portugal
 -Alemanha
