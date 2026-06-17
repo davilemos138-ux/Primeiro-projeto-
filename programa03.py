@@ -20,5 +20,5 @@ resto_divisao = num1 % num2
 print(f"O resto_divisao de {num1} e {num2} é igual a = {resto_divisao}")
 
 potenciacao = num1 ** num2
-print(f"O potenciacao de {num1} e {num2} é igual a = {potenciacao}"
+print(f"O potenciacao de {num1} e {num2} é igual a = {potenciacao}")
 
