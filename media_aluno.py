@@ -1,6 +1,6 @@
 nota1 =float(input("Digite a primeira nota: "))
 nota2 =float(input("Digite a segunda nota: "))
-nota3  =float(input("Digite a terceira nota: "))
+nota3 =float(input("Digite a terceira nota: "))
 
 media =(nota1 + nota2 + nota3) / 3
 
@@ -15,6 +15,8 @@ elif media >= 3 and media < 7 :
             print("Aluno(a) apravado pela recuperação")
         else:
             print("Aluno(a) não obteve nota suficiente para ser aprovado após a recuperação.")
-
+    else:
+        print("Aluno ainda não fez a recuperação")
 else:
     print(f"Aluno(a) Reprovado(a) com {media:.2f}")
+

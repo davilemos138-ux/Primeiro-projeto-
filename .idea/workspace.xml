@@ -5,27 +5,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9ec133d-82e3-4233-924b-de8ccc601a93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estrutura_condicional.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Primeiro-projeto-.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programa01.py" beforeDir="false" afterPath="$PROJECT_DIR$/programa01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programa03.py" beforeDir="false" afterPath="$PROJECT_DIR$/programa03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades/par_ou_impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_aluno.py" beforeDir="false" afterPath="$PROJECT_DIR$/media_aluno.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000022650903813" />
+      <entry key="S2" value="1.039319390356059" />
+      <entry key="S5" value="1.3218748089528043" />
+      <entry key="S10" value="1.7826572925873476" />
+      <entry key="S30" value="3.119500852559316" />
+      <entry key="S60" value="4.181292761509781" />
+      <entry key="M2" value="5.5616364922826484" />
+      <entry key="M5" value="10.749353580450014" />
+      <entry key="M10" value="18.553163633934133" />
+      <entry key="M15" value="26.89632875628906" />
+      <entry key="M30" value="63.8978274113397" />
+      <entry key="H1" value="133.98731318464797" />
+      <entry key="H2" value="208.27828253512547" />
+      <entry key="H4" value="263.4471721870547" />
+      <entry key="D1" value="322.4774277324044" />
+      <entry key="W1" value="334.02982027080867" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.629036052192919E-111" />
+      <entry key="MS500" value="6.956425512060597E-23" />
+      <entry key="S2" value="2.887995650270553E-6" />
+      <entry key="S5" value="0.0060846921999653455" />
+      <entry key="S10" value="0.07800443705306348" />
+      <entry key="S30" value="0.4272739697312561" />
+      <entry key="S60" value="0.6536619690109378" />
+      <entry key="M2" value="0.8084936419113429" />
+      <entry key="M5" value="0.9184922207782545" />
+      <entry key="M10" value="0.964461679365108" />
+      <entry key="M15" value="1.0274842159924462" />
+      <entry key="M30" value="1.532624134714789" />
+      <entry key="H1" value="2.7777599108051856" />
+      <entry key="H2" value="4.256668018754307" />
+      <entry key="H4" value="5.416867990565491" />
+      <entry key="D1" value="6.700696902330924" />
+      <entry key="W1" value="6.956281764064889" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835021070482602" />
+      <entry key="S2" value="1.0098535014899406" />
+      <entry key="S5" value="1.2297720035336601" />
+      <entry key="S10" value="1.7412058123739749" />
+      <entry key="S30" value="3.4469209451243423" />
+      <entry key="S60" value="4.7650593866848325" />
+      <entry key="M2" value="6.32346742466694" />
+      <entry key="M5" value="11.635760837178236" />
+      <entry key="M10" value="19.493882065593738" />
+      <entry key="M15" value="27.904182970236914" />
+      <entry key="M30" value="65.41380954240239" />
+      <entry key="H1" value="136.74999797532527" />
+      <entry key="H2" value="212.52360984052018" />
+      <entry key="H4" value="268.85690668630116" />
+      <entry key="D1" value="329.17666869931" />
+      <entry key="W1" value="340.9858864884543" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FEs8GxVXeK93x0lpvMsnREVRAV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +99,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.estrutura_condicional.executor": "Run",
+    "Python.media_aluno.executor": "Run",
+    "Python.par_ou_impar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -67,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1781651404144</updated>
       <workItem from="1781651405182" duration="212000" />
-      <workItem from="1781651650929" duration="516000" />
+      <workItem from="1781651650929" duration="4522000" />
+      <workItem from="1781731911133" duration="7828000" />
     </task>
     <servers />
   </component>
@@ -75,6 +144,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/primeiro_projeto$estrutura_condicional.coverage" NAME="estrutura_condicional Coverage Results" MODIFIED="1781651867683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/primeiro_projeto$estrutura_condicional.coverage" NAME="estrutura_condicional Coverage Results" MODIFIED="1781731967841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/primeiro_projeto$media_aluno.coverage" NAME="media_aluno Coverage Results" MODIFIED="1781732820672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/primeiro_projeto$par_ou_impar.coverage" NAME="par_ou_impar Coverage Results" MODIFIED="1781739189320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Atividades" />
   </component>
 </project>
